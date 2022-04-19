@@ -1,0 +1,298 @@
+C:\Users\usama\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\usama\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\usama\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\usama\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\usama\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\usama\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\usama\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\usama\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\usama\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\usama\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\usama\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ISOLATION.resources
+C:\Users\usama\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Addisolation.resources
+C:\Users\usama\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Searchisolation.resources
+C:\Users\usama\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.updateiso1.resources
+C:\Users\usama\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.updateiso2.resources
+C:\Users\usama\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.deleteiso.resources
+C:\Users\usama\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.quarantineward.resources
+C:\Users\usama\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.addquarantine.resources
+C:\Users\usama\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.searchquarantine.resources
+C:\Users\usama\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.updatequarantine.resources
+C:\Users\usama\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.updatequarantine2.resources
+C:\Users\usama\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.deletequarantine.resources
+C:\Users\usama\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.STP.resources
+C:\Users\usama\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.symptoms.resources
+C:\Users\usama\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.treatment.resources
+C:\Users\usama\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.preventions.resources
+C:\Users\usama\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.addpatient.resources
+C:\Users\usama\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.patientrecord.resources
+C:\Users\usama\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.deletepatient.resources
+C:\Users\usama\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.searchpatient.resources
+C:\Users\usama\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.updatepatient.resources
+C:\Users\usama\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.updatepatient2.resources
+C:\Users\usama\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.activeacases.resources
+C:\Users\usama\Desktop\NEW db\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\usama\Desktop\NEW db\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\usama\Desktop\NEW db\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\usama\Desktop\NEW db\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\usama\Desktop\NEW db\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.activeacases.resources
+C:\Users\usama\Desktop\NEW db\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Addisolation.resources
+C:\Users\usama\Desktop\NEW db\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.addpatient.resources
+C:\Users\usama\Desktop\NEW db\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.addquarantine.resources
+C:\Users\usama\Desktop\NEW db\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.deleteiso.resources
+C:\Users\usama\Desktop\NEW db\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.deletepatient.resources
+C:\Users\usama\Desktop\NEW db\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.deletequarantine.resources
+C:\Users\usama\Desktop\NEW db\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.form1.resources
+C:\Users\usama\Desktop\NEW db\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ISOLATION.resources
+C:\Users\usama\Desktop\NEW db\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.patientrecord.resources
+C:\Users\usama\Desktop\NEW db\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.preventions.resources
+C:\Users\usama\Desktop\NEW db\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\usama\Desktop\NEW db\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.quarantineward.resources
+C:\Users\usama\Desktop\NEW db\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Searchisolation.resources
+C:\Users\usama\Desktop\NEW db\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.searchpatient.resources
+C:\Users\usama\Desktop\NEW db\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.searchquarantine.resources
+C:\Users\usama\Desktop\NEW db\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.STP.resources
+C:\Users\usama\Desktop\NEW db\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.symptoms.resources
+C:\Users\usama\Desktop\NEW db\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.treatment.resources
+C:\Users\usama\Desktop\NEW db\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.updateiso1.resources
+C:\Users\usama\Desktop\NEW db\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.updateiso2.resources
+C:\Users\usama\Desktop\NEW db\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.updatepatient.resources
+C:\Users\usama\Desktop\NEW db\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.updatepatient2.resources
+C:\Users\usama\Desktop\NEW db\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.updatequarantine.resources
+C:\Users\usama\Desktop\NEW db\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.updatequarantine2.resources
+C:\Users\usama\Desktop\NEW db\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\usama\Desktop\NEW db\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\usama\Desktop\NEW db\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\usama\Desktop\NEW db\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\usama\Desktop\NEW db\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.showiso.resources
+C:\Users\usama\Desktop\NEW db\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.showquarantine.resources
+C:\Users\usama\Desktop\NEW db\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.showpatient.resources
+C:\Users\usama\Desktop\NEW db\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.active.resources
+C:\Users\usama\Desktop\NEW db\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.death.resources
+C:\Users\usama\Desktop\NEW db\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.recovered.resources
+C:\Users\usama\Desktop\k\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\usama\Desktop\k\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\usama\Desktop\k\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\usama\Desktop\k\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\usama\Desktop\k\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.active.resources
+C:\Users\usama\Desktop\k\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.activeacases.resources
+C:\Users\usama\Desktop\k\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Addisolation.resources
+C:\Users\usama\Desktop\k\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.addpatient.resources
+C:\Users\usama\Desktop\k\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.addquarantine.resources
+C:\Users\usama\Desktop\k\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.death.resources
+C:\Users\usama\Desktop\k\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.deleteiso.resources
+C:\Users\usama\Desktop\k\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.deletepatient.resources
+C:\Users\usama\Desktop\k\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.deletequarantine.resources
+C:\Users\usama\Desktop\k\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.form1.resources
+C:\Users\usama\Desktop\k\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ISOLATION.resources
+C:\Users\usama\Desktop\k\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.patientrecord.resources
+C:\Users\usama\Desktop\k\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.preventions.resources
+C:\Users\usama\Desktop\k\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\usama\Desktop\k\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.quarantineward.resources
+C:\Users\usama\Desktop\k\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.recovered.resources
+C:\Users\usama\Desktop\k\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Searchisolation.resources
+C:\Users\usama\Desktop\k\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.searchpatient.resources
+C:\Users\usama\Desktop\k\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.searchquarantine.resources
+C:\Users\usama\Desktop\k\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.showiso.resources
+C:\Users\usama\Desktop\k\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.showpatient.resources
+C:\Users\usama\Desktop\k\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.showquarantine.resources
+C:\Users\usama\Desktop\k\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.STP.resources
+C:\Users\usama\Desktop\k\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.symptoms.resources
+C:\Users\usama\Desktop\k\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.treatment.resources
+C:\Users\usama\Desktop\k\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.updateiso1.resources
+C:\Users\usama\Desktop\k\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.updateiso2.resources
+C:\Users\usama\Desktop\k\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.updatepatient.resources
+C:\Users\usama\Desktop\k\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.updatepatient2.resources
+C:\Users\usama\Desktop\k\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.updatequarantine.resources
+C:\Users\usama\Desktop\k\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.updatequarantine2.resources
+C:\Users\usama\Desktop\k\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\usama\Desktop\k\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\usama\Desktop\k\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\usama\Desktop\k\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\usama\Desktop\bscs\db lab\db project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\usama\Desktop\bscs\db lab\db project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\usama\Desktop\bscs\db lab\db project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\usama\Desktop\bscs\db lab\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\usama\Desktop\bscs\db lab\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.active.resources
+C:\Users\usama\Desktop\bscs\db lab\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.activeacases.resources
+C:\Users\usama\Desktop\bscs\db lab\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Addisolation.resources
+C:\Users\usama\Desktop\bscs\db lab\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.addpatient.resources
+C:\Users\usama\Desktop\bscs\db lab\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.addquarantine.resources
+C:\Users\usama\Desktop\bscs\db lab\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.death.resources
+C:\Users\usama\Desktop\bscs\db lab\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.deleteiso.resources
+C:\Users\usama\Desktop\bscs\db lab\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.deletepatient.resources
+C:\Users\usama\Desktop\bscs\db lab\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.deletequarantine.resources
+C:\Users\usama\Desktop\bscs\db lab\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.form1.resources
+C:\Users\usama\Desktop\bscs\db lab\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ISOLATION.resources
+C:\Users\usama\Desktop\bscs\db lab\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.patientrecord.resources
+C:\Users\usama\Desktop\bscs\db lab\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.preventions.resources
+C:\Users\usama\Desktop\bscs\db lab\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\usama\Desktop\bscs\db lab\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.quarantineward.resources
+C:\Users\usama\Desktop\bscs\db lab\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.recovered.resources
+C:\Users\usama\Desktop\bscs\db lab\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Searchisolation.resources
+C:\Users\usama\Desktop\bscs\db lab\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.searchpatient.resources
+C:\Users\usama\Desktop\bscs\db lab\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.searchquarantine.resources
+C:\Users\usama\Desktop\bscs\db lab\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.showiso.resources
+C:\Users\usama\Desktop\bscs\db lab\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.showpatient.resources
+C:\Users\usama\Desktop\bscs\db lab\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.showquarantine.resources
+C:\Users\usama\Desktop\bscs\db lab\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.STP.resources
+C:\Users\usama\Desktop\bscs\db lab\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.symptoms.resources
+C:\Users\usama\Desktop\bscs\db lab\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.treatment.resources
+C:\Users\usama\Desktop\bscs\db lab\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.updateiso1.resources
+C:\Users\usama\Desktop\bscs\db lab\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.updateiso2.resources
+C:\Users\usama\Desktop\bscs\db lab\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.updatepatient.resources
+C:\Users\usama\Desktop\bscs\db lab\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.updatepatient2.resources
+C:\Users\usama\Desktop\bscs\db lab\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.updatequarantine.resources
+C:\Users\usama\Desktop\bscs\db lab\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.updatequarantine2.resources
+C:\Users\usama\Desktop\bscs\db lab\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\usama\Desktop\bscs\db lab\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\usama\Desktop\bscs\db lab\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\usama\Desktop\bscs\db lab\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\usama\Desktop\bscs\semester 4\db lab\db project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\usama\Desktop\bscs\semester 4\db lab\db project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\usama\Desktop\bscs\semester 4\db lab\db project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\usama\Desktop\bscs\semester 4\db lab\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\usama\Desktop\bscs\semester 4\db lab\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.active.resources
+C:\Users\usama\Desktop\bscs\semester 4\db lab\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.activeacases.resources
+C:\Users\usama\Desktop\bscs\semester 4\db lab\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Addisolation.resources
+C:\Users\usama\Desktop\bscs\semester 4\db lab\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.addpatient.resources
+C:\Users\usama\Desktop\bscs\semester 4\db lab\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.addquarantine.resources
+C:\Users\usama\Desktop\bscs\semester 4\db lab\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.death.resources
+C:\Users\usama\Desktop\bscs\semester 4\db lab\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.deleteiso.resources
+C:\Users\usama\Desktop\bscs\semester 4\db lab\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.deletepatient.resources
+C:\Users\usama\Desktop\bscs\semester 4\db lab\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.deletequarantine.resources
+C:\Users\usama\Desktop\bscs\semester 4\db lab\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.form1.resources
+C:\Users\usama\Desktop\bscs\semester 4\db lab\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ISOLATION.resources
+C:\Users\usama\Desktop\bscs\semester 4\db lab\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.patientrecord.resources
+C:\Users\usama\Desktop\bscs\semester 4\db lab\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.preventions.resources
+C:\Users\usama\Desktop\bscs\semester 4\db lab\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\usama\Desktop\bscs\semester 4\db lab\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.quarantineward.resources
+C:\Users\usama\Desktop\bscs\semester 4\db lab\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.recovered.resources
+C:\Users\usama\Desktop\bscs\semester 4\db lab\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Searchisolation.resources
+C:\Users\usama\Desktop\bscs\semester 4\db lab\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.searchpatient.resources
+C:\Users\usama\Desktop\bscs\semester 4\db lab\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.searchquarantine.resources
+C:\Users\usama\Desktop\bscs\semester 4\db lab\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.showiso.resources
+C:\Users\usama\Desktop\bscs\semester 4\db lab\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.showpatient.resources
+C:\Users\usama\Desktop\bscs\semester 4\db lab\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.showquarantine.resources
+C:\Users\usama\Desktop\bscs\semester 4\db lab\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.STP.resources
+C:\Users\usama\Desktop\bscs\semester 4\db lab\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.symptoms.resources
+C:\Users\usama\Desktop\bscs\semester 4\db lab\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.treatment.resources
+C:\Users\usama\Desktop\bscs\semester 4\db lab\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.updateiso1.resources
+C:\Users\usama\Desktop\bscs\semester 4\db lab\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.updateiso2.resources
+C:\Users\usama\Desktop\bscs\semester 4\db lab\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.updatepatient.resources
+C:\Users\usama\Desktop\bscs\semester 4\db lab\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.updatepatient2.resources
+C:\Users\usama\Desktop\bscs\semester 4\db lab\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.updatequarantine.resources
+C:\Users\usama\Desktop\bscs\semester 4\db lab\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.updatequarantine2.resources
+C:\Users\usama\Desktop\bscs\semester 4\db lab\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\usama\Desktop\bscs\semester 4\db lab\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\usama\Desktop\bscs\semester 4\db lab\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\usama\Desktop\bscs\semester 4\db lab\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\waqas\OneDrive\Desktop\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\waqas\OneDrive\Desktop\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\waqas\OneDrive\Desktop\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\waqas\OneDrive\Desktop\db project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\waqas\OneDrive\Desktop\db project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\waqas\OneDrive\Desktop\db project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\waqas\OneDrive\Desktop\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.active.resources
+C:\Users\waqas\OneDrive\Desktop\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.activeacases.resources
+C:\Users\waqas\OneDrive\Desktop\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Addisolation.resources
+C:\Users\waqas\OneDrive\Desktop\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.addpatient.resources
+C:\Users\waqas\OneDrive\Desktop\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.addquarantine.resources
+C:\Users\waqas\OneDrive\Desktop\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.death.resources
+C:\Users\waqas\OneDrive\Desktop\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.deleteiso.resources
+C:\Users\waqas\OneDrive\Desktop\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.deletepatient.resources
+C:\Users\waqas\OneDrive\Desktop\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.deletequarantine.resources
+C:\Users\waqas\OneDrive\Desktop\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.form1.resources
+C:\Users\waqas\OneDrive\Desktop\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ISOLATION.resources
+C:\Users\waqas\OneDrive\Desktop\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.patientrecord.resources
+C:\Users\waqas\OneDrive\Desktop\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.preventions.resources
+C:\Users\waqas\OneDrive\Desktop\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\waqas\OneDrive\Desktop\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.quarantineward.resources
+C:\Users\waqas\OneDrive\Desktop\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.recovered.resources
+C:\Users\waqas\OneDrive\Desktop\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Searchisolation.resources
+C:\Users\waqas\OneDrive\Desktop\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.searchpatient.resources
+C:\Users\waqas\OneDrive\Desktop\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.searchquarantine.resources
+C:\Users\waqas\OneDrive\Desktop\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.showiso.resources
+C:\Users\waqas\OneDrive\Desktop\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.showpatient.resources
+C:\Users\waqas\OneDrive\Desktop\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.showquarantine.resources
+C:\Users\waqas\OneDrive\Desktop\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.STP.resources
+C:\Users\waqas\OneDrive\Desktop\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.symptoms.resources
+C:\Users\waqas\OneDrive\Desktop\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.treatment.resources
+C:\Users\waqas\OneDrive\Desktop\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.updateiso1.resources
+C:\Users\waqas\OneDrive\Desktop\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.updateiso2.resources
+C:\Users\waqas\OneDrive\Desktop\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.updatepatient.resources
+C:\Users\waqas\OneDrive\Desktop\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.updatepatient2.resources
+C:\Users\waqas\OneDrive\Desktop\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.updatequarantine.resources
+C:\Users\waqas\OneDrive\Desktop\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.updatequarantine2.resources
+C:\Users\waqas\OneDrive\Desktop\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\waqas\OneDrive\Desktop\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+G:\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+G:\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.active.resources
+G:\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.activeacases.resources
+G:\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Addisolation.resources
+G:\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.addpatient.resources
+G:\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.addquarantine.resources
+G:\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.death.resources
+G:\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.deleteiso.resources
+G:\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.deletepatient.resources
+G:\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.deletequarantine.resources
+G:\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.form1.resources
+G:\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ISOLATION.resources
+G:\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.patientrecord.resources
+G:\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.preventions.resources
+G:\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+G:\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.quarantineward.resources
+G:\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Searchisolation.resources
+G:\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.searchpatient.resources
+G:\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.searchquarantine.resources
+G:\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.showiso.resources
+G:\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.showpatient.resources
+G:\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.showquarantine.resources
+G:\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.STP.resources
+G:\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.symptoms.resources
+G:\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.treatment.resources
+G:\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.updateiso1.resources
+G:\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.updateiso2.resources
+G:\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.updatepatient.resources
+G:\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.updatepatient2.resources
+G:\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.updatequarantine.resources
+G:\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.updatequarantine2.resources
+G:\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+G:\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+G:\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+G:\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+H:\university\projects\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+H:\university\projects\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.active.resources
+H:\university\projects\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.activeacases.resources
+H:\university\projects\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Addisolation.resources
+H:\university\projects\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.addpatient.resources
+H:\university\projects\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.addquarantine.resources
+H:\university\projects\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.death.resources
+H:\university\projects\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.deleteiso.resources
+H:\university\projects\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.deletepatient.resources
+H:\university\projects\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.deletequarantine.resources
+H:\university\projects\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.form1.resources
+H:\university\projects\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ISOLATION.resources
+H:\university\projects\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.patientrecord.resources
+H:\university\projects\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.preventions.resources
+H:\university\projects\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+H:\university\projects\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.quarantineward.resources
+H:\university\projects\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Searchisolation.resources
+H:\university\projects\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.searchpatient.resources
+H:\university\projects\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.searchquarantine.resources
+H:\university\projects\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.showiso.resources
+H:\university\projects\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.showpatient.resources
+H:\university\projects\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.showquarantine.resources
+H:\university\projects\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.STP.resources
+H:\university\projects\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.symptoms.resources
+H:\university\projects\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.treatment.resources
+H:\university\projects\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.updateiso1.resources
+H:\university\projects\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.updateiso2.resources
+H:\university\projects\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.updatepatient.resources
+H:\university\projects\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.updatepatient2.resources
+H:\university\projects\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.updatequarantine.resources
+H:\university\projects\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.updatequarantine2.resources
+H:\university\projects\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+H:\university\projects\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+H:\university\projects\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+H:\university\projects\db project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

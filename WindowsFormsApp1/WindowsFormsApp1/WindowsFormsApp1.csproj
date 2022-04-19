@@ -1,0 +1,337 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{26685E6A-1978-4205-A6EE-3C07A2A590DC}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>WindowsFormsApp1</RootNamespace>
+    <AssemblyName>WindowsFormsApp1</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="active.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="active.Designer.cs">
+      <DependentUpon>active.cs</DependentUpon>
+    </Compile>
+    <Compile Include="activeacases.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="activeacases.Designer.cs">
+      <DependentUpon>activeacases.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Addisolation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Addisolation.Designer.cs">
+      <DependentUpon>Addisolation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="addpatient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="addpatient.Designer.cs">
+      <DependentUpon>addpatient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="addquarantine.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="addquarantine.Designer.cs">
+      <DependentUpon>addquarantine.cs</DependentUpon>
+    </Compile>
+    <Compile Include="death.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="death.Designer.cs">
+      <DependentUpon>death.cs</DependentUpon>
+    </Compile>
+    <Compile Include="deleteiso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="deleteiso.Designer.cs">
+      <DependentUpon>deleteiso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="deletepatient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="deletepatient.Designer.cs">
+      <DependentUpon>deletepatient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="deletequarantine.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="deletequarantine.Designer.cs">
+      <DependentUpon>deletequarantine.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ISOLATION.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ISOLATION.Designer.cs">
+      <DependentUpon>ISOLATION.cs</DependentUpon>
+    </Compile>
+    <Compile Include="patientrecord.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="patientrecord.Designer.cs">
+      <DependentUpon>patientrecord.cs</DependentUpon>
+    </Compile>
+    <Compile Include="preventions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="preventions.Designer.cs">
+      <DependentUpon>preventions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="quarantineward.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="quarantineward.Designer.cs">
+      <DependentUpon>quarantineward.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Searchisolation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Searchisolation.Designer.cs">
+      <DependentUpon>Searchisolation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="searchpatient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="searchpatient.Designer.cs">
+      <DependentUpon>searchpatient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="searchquarantine.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="searchquarantine.Designer.cs">
+      <DependentUpon>searchquarantine.cs</DependentUpon>
+    </Compile>
+    <Compile Include="showiso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="showiso.Designer.cs">
+      <DependentUpon>showiso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="showpatient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="showpatient.Designer.cs">
+      <DependentUpon>showpatient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="showquarantine.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="showquarantine.Designer.cs">
+      <DependentUpon>showquarantine.cs</DependentUpon>
+    </Compile>
+    <Compile Include="STP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="STP.Designer.cs">
+      <DependentUpon>STP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="symptoms.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="symptoms.Designer.cs">
+      <DependentUpon>symptoms.cs</DependentUpon>
+    </Compile>
+    <Compile Include="treatment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="treatment.Designer.cs">
+      <DependentUpon>treatment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="updateiso1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="updateiso1.Designer.cs">
+      <DependentUpon>updateiso1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="updateiso2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="updateiso2.Designer.cs">
+      <DependentUpon>updateiso2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="updatepatient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="updatepatient.Designer.cs">
+      <DependentUpon>updatepatient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="updatepatient2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="updatepatient2.Designer.cs">
+      <DependentUpon>updatepatient2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="updatequarantine.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="updatequarantine.Designer.cs">
+      <DependentUpon>updatequarantine.cs</DependentUpon>
+    </Compile>
+    <Compile Include="updatequarantine2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="updatequarantine2.Designer.cs">
+      <DependentUpon>updatequarantine2.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="active.resx">
+      <DependentUpon>active.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="activeacases.resx">
+      <DependentUpon>activeacases.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Addisolation.resx">
+      <DependentUpon>Addisolation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="addpatient.resx">
+      <DependentUpon>addpatient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="addquarantine.resx">
+      <DependentUpon>addquarantine.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="death.resx">
+      <DependentUpon>death.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="deleteiso.resx">
+      <DependentUpon>deleteiso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="deletepatient.resx">
+      <DependentUpon>deletepatient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="deletequarantine.resx">
+      <DependentUpon>deletequarantine.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ISOLATION.resx">
+      <DependentUpon>ISOLATION.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="patientrecord.resx">
+      <DependentUpon>patientrecord.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="preventions.resx">
+      <DependentUpon>preventions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="quarantineward.resx">
+      <DependentUpon>quarantineward.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Searchisolation.resx">
+      <DependentUpon>Searchisolation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="searchpatient.resx">
+      <DependentUpon>searchpatient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="searchquarantine.resx">
+      <DependentUpon>searchquarantine.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="showiso.resx">
+      <DependentUpon>showiso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="showpatient.resx">
+      <DependentUpon>showpatient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="showquarantine.resx">
+      <DependentUpon>showquarantine.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="STP.resx">
+      <DependentUpon>STP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="symptoms.resx">
+      <DependentUpon>symptoms.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="treatment.resx">
+      <DependentUpon>treatment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="updateiso1.resx">
+      <DependentUpon>updateiso1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="updateiso2.resx">
+      <DependentUpon>updateiso2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="updatepatient.resx">
+      <DependentUpon>updatepatient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="updatepatient2.resx">
+      <DependentUpon>updatepatient2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="updatequarantine.resx">
+      <DependentUpon>updatequarantine.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="updatequarantine2.resx">
+      <DependentUpon>updatequarantine2.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
